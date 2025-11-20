@@ -64,6 +64,10 @@ The app will be available at `http://localhost:5173`
 
 ---
 
-## License
+## Preview
 
-MIT
+![Image](https://github.com/user-attachments/assets/dace801d-7b68-4164-8da4-915dd8211dea)
+
+*A snapshot of the app in action (example).*
+
+---
